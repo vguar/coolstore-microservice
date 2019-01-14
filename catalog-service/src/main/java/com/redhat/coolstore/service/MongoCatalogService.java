@@ -109,7 +109,7 @@ public class MongoCatalogService implements CatalogService {
 
     private static List<Product> DEFAULT_PRODUCT_LIST = new ArrayList<>();
     static {
-        DEFAULT_PRODUCT_LIST.add(new Product("329299", "Red Fedora", "Official Red Hat Fedora", 34.99));
+        DEFAULT_PRODUCT_LIST.add(new Product("329299", "ADEO Manawa", "Official Red Hat Fedora", 34.99));
         DEFAULT_PRODUCT_LIST.add(new Product("329199", "Forge Laptop Sticker", "JBoss Community Forge Project Sticker", 8.50));
         DEFAULT_PRODUCT_LIST.add(new Product("165613", "Solid Performance Polo", "Moisture-wicking, antimicrobial 100% polyester design wicks for life of garment. No-curl, rib-knit collar; special collar band maintains crisp fold; three-button placket with dyed-to-match buttons; hemmed sleeves; even bottom with side vents; Import. Embroidery. Red Pepper.", 17.80));
         DEFAULT_PRODUCT_LIST.add(new Product("165614", "Ogio Caliber Polo", "Moisture-wicking 100% polyester. Rib-knit collar and cuffs; Ogio jacquard tape inside neck; bar-tacked three-button placket with Ogio dyed-to-match buttons; side vents; tagless; Ogio badge on left sleeve. Import. Embroidery. Black.", 28.75));
