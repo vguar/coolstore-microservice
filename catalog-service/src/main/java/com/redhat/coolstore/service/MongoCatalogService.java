@@ -113,7 +113,7 @@ public class MongoCatalogService implements CatalogService {
         DEFAULT_PRODUCT_LIST.add(new Product("329199", "Applique Pop", "Applique, pop e14 Skit métal Jaune, 1 INSPIRE", 29.50));
         DEFAULT_PRODUCT_LIST.add(new Product("165613", "Poele a bois ADURO", "L'Aduro 9-3 Lux est étanche et raccordable à l'air extérieur.", 1590.00));
         DEFAULT_PRODUCT_LIST.add(new Product("165614", "Perceuse sans fil DEWALT", "Perceuse sans fil DEWALT Compact xr dck777d2t, 18 V 2 Ah, 2 batteries ", 199.00));
-        DEFAULT_PRODUCT_LIST.add(new Product("165954", "Coffret d outils 108 pieces DEXTER", "11 tournevis, 1 tournevis porte-embout et ses embouts, 6 clés plates", 6.00));
+        DEFAULT_PRODUCT_LIST.add(new Product("165954", "Coffret 108 pieces DEXTER", "11 tournevis, 1 tournevis porte-embout et ses embouts, 6 clés plates", 6.00));
         DEFAULT_PRODUCT_LIST.add(new Product("444434", "Seche serviettes ACOVA", "Sèche serviettes électrique ACOVA Plume titane 1000 W", 1253.00));
         DEFAULT_PRODUCT_LIST.add(new Product("444435", "Pistolet automatique GEOLIA Geot30", "Equipé de 7 formes de jets. Manche confortable. Anti-choc.", 12.65));
         DEFAULT_PRODUCT_LIST.add(new Product("444436", "Evier a encastrer", "Evier à encastrer résine noir Solo, 1 grand bac avec égouttoir ", 109.90));
