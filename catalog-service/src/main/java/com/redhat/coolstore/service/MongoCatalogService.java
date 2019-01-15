@@ -111,7 +111,7 @@ public class MongoCatalogService implements CatalogService {
     static {
         DEFAULT_PRODUCT_LIST.add(new Product("329299", "Carrelage Sol", "Carrelage sol et mur gris clair aspect bois l.15 x L.90 cm", 17.99));
         DEFAULT_PRODUCT_LIST.add(new Product("329199", "Applique Pop", "Applique, pop e14 Skit métal Jaune, 1 INSPIRE", 29.50));
-        DEFAULT_PRODUCT_LIST.add(new Product("165613", "Poele a bois ADURO", "L'Aduro 9-3 Lux est étanche et raccordable à l'air extérieur, puisant l'air nécessaire à la combustion depuis l'extérieur pour le diffuser directement dans le poêle. La prise d'air peut être installée à l'arrière du poêle ou en dessous. Son piédestal rehausse le foyer et place les flammes au centre de la pièce. Avec sa porte complètement vitrée, il s'apparente à une sculpture installée dans votre salon.", 1590.00));
+        DEFAULT_PRODUCT_LIST.add(new Product("165613", "Poele a bois ADURO", "L'Aduro 9-3 Lux est étanche et raccordable à l'air extérieur.", 1590.00));
         DEFAULT_PRODUCT_LIST.add(new Product("165614", "Ogio Caliber Polo", "Moisture-wicking 100% polyester. Rib-knit collar and cuffs; Ogio jacquard tape inside neck; bar-tacked three-button placket with Ogio dyed-to-match buttons; side vents; tagless; Ogio badge on left sleeve. Import. Embroidery. Black.", 28.75));
         DEFAULT_PRODUCT_LIST.add(new Product("165954", "16 oz. Vortex Tumbler", "Double-wall insulated, BPA-free, acrylic cup. Push-on lid with thumb-slide closure; for hot and cold beverages. Holds 16 oz. Hand wash only. Imprint. Clear.", 6.00));
         DEFAULT_PRODUCT_LIST.add(new Product("444434", "Pebble Smart Watch", "Smart glasses and smart watches are perhaps two of the most exciting developments in recent years. ", 24.00));
