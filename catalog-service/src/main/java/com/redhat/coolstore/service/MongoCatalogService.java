@@ -112,11 +112,11 @@ public class MongoCatalogService implements CatalogService {
         DEFAULT_PRODUCT_LIST.add(new Product("329299", "Carrelage Sol", "Carrelage sol et mur gris clair aspect bois l.15 x L.90 cm", 17.99));
         DEFAULT_PRODUCT_LIST.add(new Product("329199", "Applique Pop", "Applique, pop e14 Skit métal Jaune, 1 INSPIRE", 29.50));
         DEFAULT_PRODUCT_LIST.add(new Product("165613", "Poele a bois ADURO", "L'Aduro 9-3 Lux est étanche et raccordable à l'air extérieur.", 1590.00));
-        DEFAULT_PRODUCT_LIST.add(new Product("165614", "Ogio Caliber Polo", "Moisture-wicking 100% polyester. Rib-knit collar and cuffs; Ogio jacquard tape inside neck; bar-tacked three-button placket with Ogio dyed-to-match buttons; side vents; tagless; Ogio badge on left sleeve. Import. Embroidery. Black.", 28.75));
-        DEFAULT_PRODUCT_LIST.add(new Product("165954", "16 oz. Vortex Tumbler", "Double-wall insulated, BPA-free, acrylic cup. Push-on lid with thumb-slide closure; for hot and cold beverages. Holds 16 oz. Hand wash only. Imprint. Clear.", 6.00));
-        DEFAULT_PRODUCT_LIST.add(new Product("444434", "Pebble Smart Watch", "Smart glasses and smart watches are perhaps two of the most exciting developments in recent years. ", 24.00));
-        DEFAULT_PRODUCT_LIST.add(new Product("444435", "Oculus Rift", "The world of gaming has also undergone some very unique and compelling tech advances in recent years. Virtual reality, the concept of complete immersion into a digital universe through a special headset, has been the white whale of gaming and digital technology ever since Geekstakes Oculus Rift GiveawayNintendo marketed its Virtual Boy gaming system in 1995.Lytro", 106.00));
-        DEFAULT_PRODUCT_LIST.add(new Product("444436", "Lytro Camera", "Consumers who want to up their photography game are looking at newfangled cameras like the Lytro Field camera, designed to take photos with infinite focus, so you can decide later exactly where you want the focus of each image to be. ", 44.30));
+        DEFAULT_PRODUCT_LIST.add(new Product("165614", "Perceuse sans fil DEWALT", "Perceuse sans fil DEWALT Compact xr dck777d2t, 18 V 2 Ah, 2 batteries ", 199.00));
+        DEFAULT_PRODUCT_LIST.add(new Product("165954", "Coffret d'outils 108 pieces DEXTER", "11 tournevis, 1 tournevis porte-embout et ses embouts, 6 clés plates", 6.00));
+        DEFAULT_PRODUCT_LIST.add(new Product("444434", "Seche serviettes ACOVA", "Sèche serviettes électrique ACOVA Plume titane 1000 W", 1253.00));
+        DEFAULT_PRODUCT_LIST.add(new Product("444435", "Pistolet automatique GEOLIA Geot30", "Equipé de 7 formes de jets. Manche confortable. Anti-choc.", 12.65));
+        DEFAULT_PRODUCT_LIST.add(new Product("444436", "Evier a encastrer", "Evier à encastrer résine noir Solo, 1 grand bac avec égouttoir ", 109.90));
 
     }
 
